@@ -10,6 +10,7 @@ In dataset, each instance is a grayscale image capturing a single sperm. The hea
 Labels can be either 0 (normal, positive) or 1 (abnormal, negative).
 
 The dataset is available in .npy format.
+
 The datset has been trained with transfer Learning technique. A sample of the model training has been shown below. 
 Epoch 1/25
 34/34 [==============================] - ETA: 0s - loss: 0.7869 - accuracy: 0.6180
