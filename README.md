@@ -15,8 +15,10 @@ The datset has been trained with transfer Learning technique. A sample of the mo
 
 Epoch 1/25
 34/34 [==============================] - ETA: 0s - loss: 0.7869 - accuracy: 0.6180
+
 Epoch 00001: val_accuracy improved from -inf to 0.66250, saving model to xvgg16_1.h5
 34/34 [==============================] - 87s 3s/step - loss: 0.7869 - accuracy: 0.6180 - val_loss: 0.6482 - val_accuracy: 0.6625
+
 
 Epoch 2/25
 34/34 [==============================] - ETA: 0s - loss: 0.6741 - accuracy: 0.6640
