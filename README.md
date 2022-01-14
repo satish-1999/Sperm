@@ -1,6 +1,6 @@
 # Sperm Fertilisation Detection
-
-The dataset is a collection of human sperm images from 235 patients with male factor infertility. Each image is labeled by experts for normal or abnormal sperm acrosome, head, vacuole, and tail.
+**
+The dataset is a collection of human sperm images from 235 patients with male factor infertility. Each image is labeled by experts for normal or abnormal sperm acrosome, head, vacuole, and tail.**
 
 The training, validation, and test sets contain 1000, 240, and 300 images, respectively.
 
